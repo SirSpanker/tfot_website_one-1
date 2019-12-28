@@ -1,10 +1,12 @@
-# Readme
+# The Future of Thought: Readme
 
-## My readme for TFOT
+## "Dismantling stigma one thought at a time"
+
+### ** What is The Future of Thought? **
+
+The Future of Thought is a podcast in which we strive to dismatle social stigmas
 
 
-** This is bold **
+### How can you help?
 
-_this is italics_
-
-
+Visit our patreon at ______
