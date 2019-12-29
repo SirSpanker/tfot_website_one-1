@@ -1,0 +1,1 @@
+https://thefutureofthought.netlify.com/* https://www.thefutureofthought.com/:splat 301!
