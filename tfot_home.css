@@ -1,3 +1,7 @@
+/*
+ This is supposed to give us a basic image on our website 
+Once we get this up and working, we can def add a TFOT image from our computer 
+*/
 header {
     padding: 100px;
     background-image: url("https:bit.ly/2tAPl47");
@@ -5,3 +9,4 @@ header {
     background-size: cover;
     border-top: solid 5px white;
 }
+
