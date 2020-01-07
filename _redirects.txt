@@ -1,4 +1,4 @@
-https://www.thefutureofthought.netlify.com/* https://www.thefutureofthought.com/:splat 301!
-https://www.thefutureofthought.org/* https://www.thefutureofthought.com/:splat 301!
-https://www.thefutureofthought.net/* https://www.thefutureofthought.com/:splat 301!
-https://www.thefutureofthought.info/* https://www.thefutureofthought.com/:splat 301!
+https://thefutureofthought.netlify.com/* https://www.thefutureofthought.com/:splat 301!
+https://thefutureofthought.org/* https://www.thefutureofthought.com/:splat 301!
+https://thefutureofthought.net/* https://www.thefutureofthought.com/:splat 301!
+https://thefutureofthought.info/* https://www.thefutureofthought.com/:splat 301!
